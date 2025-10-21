@@ -1,2 +1,4 @@
 # telegram-bot-downloader
-FUCK Abdullah almwli
+python-telegram-bot==20.5
+yt-dlp
+ffmpeg-python
